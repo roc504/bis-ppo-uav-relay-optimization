@@ -20,3 +20,16 @@ This repository contains the core code for a UAV relay deployment and bandwidth 
 ## Notes
 
 The code is intended to support experiments on joint relay UAV deployment and bandwidth allocation for UAV remote sensing data backhaul. Some scripts depend on experiment logs or trained model files generated during training and evaluation.
+
+
+## License
+
+The research data, experimental results, trained models, configuration
+files, figures, tables, and supporting materials in this repository are
+licensed under the [Creative Commons Attribution 4.0 International License
+(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+Please cite the associated paper when reusing these materials:
+
+Xicheng Tan et al., "Multi-UAV Spatial Deployment and Spectrum Resource
+Scheduling for Real-time Emergency Mapping," 2026.
